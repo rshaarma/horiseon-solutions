@@ -8,7 +8,7 @@
 
   <p align="center">
     <strong>Explore the docs »</strong>
-    <a href="https://marzstudio.herokuapp.com/">View Demo</a>
+    <a href="https://rshaarma.github.io/horiseon-solutions/">View Demo</a>
     ·
     <a href="https://github.com/rshaarma/horiseon-solutions/issues">Report Bug</a>
     ·
