@@ -44,27 +44,28 @@ Github Pages. This project was developed by [Rohit](https://github.com/rshaarma)
 
 ### Prerequisites
 
-#### Initialize the database
+#### Text Editor
 
-``````shell
-VS code
+```shell
+Visual Studio Code
+```
 
 ### Installation
 
 #### Technologies
 
-`````shell
+```shell
 HTML5
-````shell
+```
+
+```shell
 CSS3
-
-
-``````
+```
 
 #### Clone the repository
 
 ```shell
-git clone git@github.com:MarcusThorne/MARZ_studio.git
+git clone git@github.com:rshaarma/horiseon-solutions.git
 cd project
 ```
 
