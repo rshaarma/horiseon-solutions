@@ -21,7 +21,7 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-  - [Built With](#built-with)
+
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -29,3 +29,12 @@
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Contact](#contact)
+
+## About The Project
+
+<img width="645" alt="Screenshot 2023-10-24 at 17 46 28" src="https://github.com/rshaarma/horiseon-solutions/assets/64362564/c4e04d13-c552-4ad0-b2d1-4fcea9137db7">
+
+This repository contains a web application of marketing agency where users can contact for online marketing and also to increase the visibility to find the right customers for the business.
+
+The live website has been deployed to
+Github Pages. This project was developed by [Rohit](https://github.com/rshaarma) .
